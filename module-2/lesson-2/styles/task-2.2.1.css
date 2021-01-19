@@ -4,4 +4,8 @@ body {
     font-size: large;
     
 }
+
+p {
+    background-color: khaki;
+}
 /* Your code goes above here */
