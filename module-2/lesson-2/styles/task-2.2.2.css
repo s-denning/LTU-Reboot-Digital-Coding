@@ -1,3 +1,28 @@
 /* Your code goes below here */
+p{ 
 
+    color: green;
+    font-size: 24px;
+    border: 1px solid goldenrod;
+}
+
+a{
+    color: green;
+    font-size 15px;
+    border: 5px dotted rebeccapurple;
+}
+
+ol{
+ color: salmon;
+ font-size: 20px;
+ border: 2px dashed darkblue;
+}
+
+ul{
+color: blue;
+font-size: 12pt;
+border: solid 3px black;
+
+
+}
 /* Your code goes above here */
