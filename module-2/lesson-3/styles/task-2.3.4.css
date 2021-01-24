@@ -1,8 +1,14 @@
-header, main, footer {
-    width: 400px;
-    height: 300px;
+.container {
+    border: 4px dashed orange;
+    width: 90%;
     margin: auto;
+    padding: 10px;  
+}
 
+header, main, footer {
+    width: 90%;
+    height: 300px;
+    margin: 10px auto;
 }
 
 header {
