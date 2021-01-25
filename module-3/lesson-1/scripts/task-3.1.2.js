@@ -4,4 +4,5 @@ alert('This is an alert message'); //pop up message box on opening page
 */
 console.log('this is a message from the console');
 
+//makes text appear on page
 document.write('hello from the document');
