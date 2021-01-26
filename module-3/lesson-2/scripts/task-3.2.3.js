@@ -17,6 +17,7 @@ function fullName(firstName, lastName) {
     return fullName;
 }
 
+//return function allows to be called later in program
 
 var person1 = fullName('Stan', 'Denning');
 document.write( person1 );
