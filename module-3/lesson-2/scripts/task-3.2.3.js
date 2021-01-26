@@ -11,4 +11,17 @@ var message = greet('Hello', 'Luke');
 
 // ADD YOUR CODE BELOW HERE
 
+
+function fullName(firstName, lastName) {
+    let fullName = firstName + ' ' + lastName + '<br>';
+    return fullName;
+}
+
+
+var person1 = fullName('Stan', 'Denning');
+document.write( person1 );
+
+var person2 = fullName('Bob', 'Smith')
+document.write(person2);
+
 // ADD YOUR CODE ABOVE HERE
