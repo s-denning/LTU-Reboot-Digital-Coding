@@ -11,7 +11,6 @@ case '+' :
     console.log(number1 + ' + ' + number2 + '=' +result);
     break;
 
-    //above works fine, others have syntax issue. work out problem by comparing
 case '*' :
     result = number1 * number2
     console.log(number1 + ' * ' +  number2 + '=' +result);
@@ -29,7 +28,7 @@ case 'square' :
     console.log(number1 + '*' +  number1 + '=' +result);
     break;
     }
-
+//square function needs fixing so second number not required to work (or hidden?)
 
 }
 
