@@ -14,5 +14,3 @@ if (temperature <5 && season === 'spring'){
 
 
 coatWeather();
-
-//add logical operater a && b 
