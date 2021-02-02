@@ -18,7 +18,7 @@ else {
 return totalPrice.toFixed(2);
 }
 
-//console.log( "£" + discountType(shoppingCart))
+console.log( '£' = discountAmount(shoppingCart, 20, 'food'));
 
 document.write( '£' = discountAmount(shoppingCart, 20, 'food'));
 document.write( '£' = discountAmount(shoppingCart, 20, 'alcohol'));
